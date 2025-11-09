@@ -1,0 +1,6 @@
+numpy==1.26.4
+spacy
+scikit-learn
+lxml
+json
+pickle
